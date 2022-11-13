@@ -11,7 +11,7 @@ Projeto de classificação de imagens para a disciplina de modelos preditivos co
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **51.2%**.
 
 ### Output do bloco de treinamento
 
@@ -3346,8 +3346,8 @@ Epoch 830: saving model to training_1/cp.ckpt
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
+![image](https://user-images.githubusercontent.com/51498834/201501079-94b7a077-9005-49d8-841d-3cd78eacdc09.png)
+
 
 ## Roboflow
 
