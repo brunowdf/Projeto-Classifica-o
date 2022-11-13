@@ -3,7 +3,7 @@ Projeto de classificação de imagens para a disciplina de modelos preditivos co
 
 # Projeto Final - Modelos Preditivos Conexionistas
 
-### Nome do aluno
+### Nome do aluno: Bruno Wanderley de Freitas
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
@@ -34,7 +34,7 @@ Exemplo de adição de imagem:
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
-Exemplo de link: [Nome do link](google.com)
+Exemplo de link: [[Nome do link](google.com)](https://app.roboflow.com/ds/UgxXuChaJw?key=TFxFxlYDA8)
 
 ## HuggingFace
 
